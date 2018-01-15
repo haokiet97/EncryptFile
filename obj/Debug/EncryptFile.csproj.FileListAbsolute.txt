@@ -1,0 +1,39 @@
+C:\Users\Giap Nguyen\documents\visual studio 2015\Projects\SoftWare\EncryptFile\bin\Debug\EncryptFile.exe.config
+C:\Users\Giap Nguyen\documents\visual studio 2015\Projects\SoftWare\EncryptFile\bin\Debug\EncryptFile.exe
+C:\Users\Giap Nguyen\documents\visual studio 2015\Projects\SoftWare\EncryptFile\bin\Debug\EncryptFile.pdb
+C:\Users\Giap Nguyen\documents\visual studio 2015\Projects\SoftWare\EncryptFile\obj\Debug\EncryptFile.csprojResolveAssemblyReference.cache
+C:\Users\Giap Nguyen\documents\visual studio 2015\Projects\SoftWare\EncryptFile\obj\Debug\EncryptFile.frmMain.resources
+C:\Users\Giap Nguyen\documents\visual studio 2015\Projects\SoftWare\EncryptFile\obj\Debug\EncryptFile.Properties.Resources.resources
+C:\Users\Giap Nguyen\documents\visual studio 2015\Projects\SoftWare\EncryptFile\obj\Debug\EncryptFile.csproj.GenerateResource.Cache
+C:\Users\Giap Nguyen\documents\visual studio 2015\Projects\SoftWare\EncryptFile\obj\Debug\EncryptFile.exe
+C:\Users\Giap Nguyen\documents\visual studio 2015\Projects\SoftWare\EncryptFile\obj\Debug\EncryptFile.pdb
+C:\Users\Giap Nguyen\documents\visual studio 2015\Projects\SoftWare\EncryptFile\obj\Debug\EncryptFile.frmAES.resources
+C:\Users\Giap Nguyen\documents\visual studio 2015\Projects\SoftWare\EncryptFile\obj\Debug\EncryptFile.GUI.frmDES.resources
+C:\Users\Giap Nguyen\documents\visual studio 2015\Projects\SoftWare\EncryptFile\obj\Debug\EncryptFile.GUI.frmRSA.resources
+C:\Users\Giap Nguyen\Documents\Visual Studio 2015\Projects\SoftWare\EncryptFile\obj\Debug\EncryptFile.GUI.frmExit.resources
+D:\Users\Giap Nguyen\Documents\Visual Studio 2015\Projects\SoftWare\EncryptFile\bin\Debug\EncryptFile.exe.config
+D:\Users\Giap Nguyen\Documents\Visual Studio 2015\Projects\SoftWare\EncryptFile\obj\Debug\EncryptFile.exe
+D:\Users\Giap Nguyen\Documents\Visual Studio 2015\Projects\SoftWare\EncryptFile\obj\Debug\EncryptFile.pdb
+D:\Users\Giap Nguyen\Documents\Visual Studio 2015\Projects\SoftWare\EncryptFile\bin\Debug\EncryptFile.exe
+D:\Users\Giap Nguyen\Documents\Visual Studio 2015\Projects\SoftWare\EncryptFile\bin\Debug\EncryptFile.pdb
+D:\Users\Giap Nguyen\Documents\Visual Studio 2015\Projects\SoftWare\EncryptFile\obj\Debug\EncryptFile.csprojResolveAssemblyReference.cache
+D:\Users\Giap Nguyen\Documents\Visual Studio 2015\Projects\SoftWare\EncryptFile\obj\Debug\EncryptFile.frmAES.resources
+D:\Users\Giap Nguyen\Documents\Visual Studio 2015\Projects\SoftWare\EncryptFile\obj\Debug\EncryptFile.GUI.frmDES.resources
+D:\Users\Giap Nguyen\Documents\Visual Studio 2015\Projects\SoftWare\EncryptFile\obj\Debug\EncryptFile.GUI.frmExit.resources
+D:\Users\Giap Nguyen\Documents\Visual Studio 2015\Projects\SoftWare\EncryptFile\obj\Debug\EncryptFile.frmMain.resources
+D:\Users\Giap Nguyen\Documents\Visual Studio 2015\Projects\SoftWare\EncryptFile\obj\Debug\EncryptFile.GUI.frmRSA.resources
+D:\Users\Giap Nguyen\Documents\Visual Studio 2015\Projects\SoftWare\EncryptFile\obj\Debug\EncryptFile.Properties.Resources.resources
+D:\Users\Giap Nguyen\Documents\Visual Studio 2015\Projects\SoftWare\EncryptFile\obj\Debug\EncryptFile.csproj.GenerateResource.Cache
+D:\DATA_User\Documents\Visual Studio 2015\Projects\SoftWare\EncryptFile\bin\Debug\EncryptFile.exe.config
+D:\DATA_User\Documents\Visual Studio 2015\Projects\SoftWare\EncryptFile\obj\Debug\EncryptFile.exe
+D:\DATA_User\Documents\Visual Studio 2015\Projects\SoftWare\EncryptFile\obj\Debug\EncryptFile.pdb
+D:\DATA_User\Documents\Visual Studio 2015\Projects\SoftWare\EncryptFile\bin\Debug\EncryptFile.exe
+D:\DATA_User\Documents\Visual Studio 2015\Projects\SoftWare\EncryptFile\bin\Debug\EncryptFile.pdb
+D:\DATA_User\Documents\Visual Studio 2015\Projects\SoftWare\EncryptFile\obj\Debug\EncryptFile.csprojResolveAssemblyReference.cache
+D:\DATA_User\Documents\Visual Studio 2015\Projects\SoftWare\EncryptFile\obj\Debug\EncryptFile.frmAES.resources
+D:\DATA_User\Documents\Visual Studio 2015\Projects\SoftWare\EncryptFile\obj\Debug\EncryptFile.GUI.frmDES.resources
+D:\DATA_User\Documents\Visual Studio 2015\Projects\SoftWare\EncryptFile\obj\Debug\EncryptFile.GUI.frmExit.resources
+D:\DATA_User\Documents\Visual Studio 2015\Projects\SoftWare\EncryptFile\obj\Debug\EncryptFile.frmMain.resources
+D:\DATA_User\Documents\Visual Studio 2015\Projects\SoftWare\EncryptFile\obj\Debug\EncryptFile.GUI.frmRSA.resources
+D:\DATA_User\Documents\Visual Studio 2015\Projects\SoftWare\EncryptFile\obj\Debug\EncryptFile.Properties.Resources.resources
+D:\DATA_User\Documents\Visual Studio 2015\Projects\SoftWare\EncryptFile\obj\Debug\EncryptFile.csproj.GenerateResource.Cache
